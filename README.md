@@ -1,4 +1,4 @@
-![pic](https://github.com/wirustea/End/blob/master/doc/end.png)
+![pic](https://github.com/wirustea/End/blob/master/doc/end.jpg)
 
 ##  目录结构
 
