@@ -14,4 +14,5 @@
 直接运行bin目录中的 End.exe，需要保证 HLSL 和 Texture 文件夹与exe位于同级目录中
 
 ## 项目概述请见 [说明文档.md](https://github.com/wirustea/End/blob/master/doc/%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3.md). 
+## 基于[X-Jun](https://www.cnblogs.com/X-Jun/p/9028764.html)的优秀框架.
 
